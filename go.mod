@@ -1,4 +1,4 @@
-module github.com/sh0rez/kubectl-neat-diff
+module github.com/ashoofly/kubectl-neat-diff
 
 go 1.15
 
